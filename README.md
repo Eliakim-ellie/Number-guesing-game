@@ -267,7 +267,7 @@ Check the Troubleshooting section
 
 Open an Issue
 
-Email: your.email@example.com
+Email: eliakimellie123@example.com
 
 <div align="center">
 Made with ❤️ by Walela 
