@@ -4,7 +4,6 @@ A beautiful, interactive number guessing game built with HTML, CSS, and JavaScri
 https://via.placeholder.com/800x400/16213e/ffffff?text=Number+Guessing+Game+Screenshot
 🎮 Live Demo
 Play the Game Here (Add your deployment link here)
-
 ✨ Features
 🎯 Core Gameplay
 Random Number Generation: Each game has a unique secret number
