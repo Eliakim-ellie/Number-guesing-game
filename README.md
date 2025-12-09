@@ -166,7 +166,6 @@ Download
 background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
 Adjust Difficulty
 In game.js, modify these variables:
-
 javascript
 
 Copy
