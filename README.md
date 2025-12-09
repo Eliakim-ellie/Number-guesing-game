@@ -2,7 +2,6 @@
 A beautiful, interactive number guessing game built with HTML, CSS, and JavaScript. Test your intuition and see if you can guess the secret number!
 
 https://via.placeholder.com/800x400/16213e/ffffff?text=Number+Guessing+Game+Screenshot
-
 🎮 Live Demo
 Play the Game Here (Add your deployment link here)
 
@@ -11,7 +10,6 @@ Play the Game Here (Add your deployment link here)
 Random Number Generation: Each game has a unique secret number
 
 Smart Feedback: Get "Too High" or "Too Low" hints after each guess
-
 Attempt Tracking: Limited attempts to increase challenge
 
 Visual History: Color-coded guess history for quick reference
